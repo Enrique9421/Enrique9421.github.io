@@ -100,6 +100,20 @@ header{
 .btn-1:hover {
     background-color: #aab1ff;
 }
+.btn-2 {
+    display: inline-block;
+    background-color: rgba(170, 177, 255, 0.3);
+    border: 1px solid #aab1ff;
+    margin: 35px 10px 0px 0px;
+    padding: 15px 25px ;
+    color: #FFFFFF;
+    border-radius: 25px;
+}
+.btn-2:hover {
+    background-color: #aab1ff;
+}
+
+
 .services {
     padding: 10px 0px;
     display: flex;
@@ -111,4 +125,16 @@ padding: 25px;
 margin: 0px 10px;
 box-shadow: 0px 0px 20px rgb(red, green, blue)
 }
+.productos {
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.producto {
+padding: 25px;
+margin: 0px 10px;
+box-shadow: 0px 0px 20px rgb(red, green, blue)
+}
+
 
